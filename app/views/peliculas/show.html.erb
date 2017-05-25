@@ -1,0 +1,16 @@
+
+
+<div class="container">
+<h2 class="jumbotron"><span class="glyphicon glyphicon-search"></span>&nbsp;&nbsp;Mostrar Peliculas</h2>
+
+<div class="list-group" style="width:70%; margin: 0px auto;">
+<p class="list-group-item">ID: <%= @pelicula.id %></p>
+<p class="list-group-item">Titulo: <%= @pelicula.name %></p>
+<p class="list-group-item">Cadena: <%= @pelicula.stars %></p>
+<p class="list-group-item">Presentador: <%= @pelicula.main_actor %></p>
+<p class="list-group-item">Horario: <%= @pelicula.year %></p>
+<br>
+<%= link_to "Back",  peliculas_path, class:"btn btn-md btn-success" %>
+</div>
+</div>
+
