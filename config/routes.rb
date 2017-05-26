@@ -1,4 +1,8 @@
 Rails.application.routes.draw do
+  get 'statics/index'
+
+  get 'statics/about'
+
 	resources :comentarios
 	resources :peliculas
   get 'comentarios/index'
