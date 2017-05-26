@@ -1,0 +1,35 @@
+
+
+<div class="container">
+	<h2>Añade aqui un nuevo comentario</h2>
+
+
+<%= form_for @comentario do |comentario| %>
+ 
+
+<p>
+	<%= comentario.label :name %> <br/>
+	<%= comentario.text_field :name %>
+</p>
+
+<p>
+	<%= comentario.label :stars %> <br/>
+	<%= comentario.text_field :stars %>
+</p>
+
+<p>
+	<%= comentario.label :main_actor %> <br/>
+	<%= comentario.text_field :main_actor %>
+</p>
+
+<p>
+	<%= comentario.label :year %> <br/>
+	<%= comentario.text_field :year %>
+</p>
+<%= comentario.submit "Añadir comentario",  class:"btn btn-md btn-danger" %>
+
+<% end %>
+<br>
+<p> <%= link_to "Back", comentarios_path, class:"btn btn-md btn-success" %> </p>
+
+</div>
