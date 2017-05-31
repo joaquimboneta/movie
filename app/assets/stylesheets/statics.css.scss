@@ -1,18 +1,36 @@
 .header1 {
-    background:green;
+    background:gray;
     width:1100px;
     height: 200px;
     text-align: right;
     padding: 45px;
    }
 .header2{
-	background:gray;
+	background:#920005;
     width:1170px;
     height: 10px;
     padding: 10px; 
 }
-.ratings1{
-    text-align: left;
+
+
+.headertxt {
+    color: white;
+    text-transform: uppercase;
+    float: top;
+    margin: -40px 0px 0px 500px;
 }
-
-
+.subtle{
+    background:gray;
+    width:1230px;
+    height: 10px;
+}
+.subzero1{
+    background:#1199BA;
+    width:1230px;
+    height:542px;
+}
+.subzero2{
+    background:#1EB62B;
+    width:1230px;
+    height:570px;
+}
