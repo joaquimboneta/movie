@@ -2007,3 +2007,2182 @@ Processing by StaticsController#index as HTML
 Completed 200 OK in 701ms (Views: 650.5ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/" for 127.0.0.1 at 2017-05-31 09:28:54 +0200
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (39.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (243.5ms)
+Completed 200 OK in 9688ms (Views: 9524.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 09:29:30 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (114.1ms)
+Completed 200 OK in 842ms (Views: 795.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 09:31:40 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (78.0ms)
+Completed 200 OK in 698ms (Views: 664.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:28:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (5.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (161.0ms)
+Completed 200 OK in 1702ms (Views: 1628.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:29:52 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (104.5ms)
+Completed 200 OK in 741ms (Views: 694.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:37:49 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (7.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (96.0ms)
+Completed 200 OK in 879ms (Views: 812.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:38:22 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (88.5ms)
+Completed 200 OK in 641ms (Views: 608.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:39:13 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.0ms)
+Completed 200 OK in 738ms (Views: 692.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:48:44 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (7.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (116.5ms)
+Completed 200 OK in 969ms (Views: 887.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 10:50:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (4.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (82.5ms)
+Completed 200 OK in 735ms (Views: 689.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:42:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (227.5ms)
+Completed 200 OK in 1573ms (Views: 1517.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:44:26 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (74.0ms)
+Completed 200 OK in 655ms (Views: 620.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:50:06 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (4.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (119.0ms)
+Completed 200 OK in 789ms (Views: 737.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:50:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (5.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.0ms)
+Completed 200 OK in 683ms (Views: 640.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:51:29 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (5.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (99.0ms)
+Completed 200 OK in 759ms (Views: 715.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:51:32 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (76.0ms)
+Completed 200 OK in 660ms (Views: 621.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:52:07 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (95.0ms)
+Completed 200 OK in 664ms (Views: 630.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:52:28 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (74.0ms)
+Completed 200 OK in 725ms (Views: 685.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:53:43 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (92.5ms)
+Completed 200 OK in 698ms (Views: 641.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:54:21 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (106.5ms)
+Completed 200 OK in 686ms (Views: 643.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:55:53 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (86.5ms)
+Completed 200 OK in 723ms (Views: 672.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:56:36 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (9.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (107.5ms)
+Completed 200 OK in 747ms (Views: 691.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:57:12 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (3.5ms)
+  Rendered statics/index.html.erb within layouts/application (83.5ms)
+Completed 200 OK in 652ms (Views: 609.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 11:57:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (101.0ms)
+Completed 200 OK in 773ms (Views: 720.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:01:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (85.0ms)
+Completed 200 OK in 647ms (Views: 612.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:02:40 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (88.5ms)
+Completed 200 OK in 1180ms (Views: 1091.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:03:38 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.5ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (130.0ms)
+Completed 200 OK in 857ms (Views: 791.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:04:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (107.0ms)
+Completed 200 OK in 724ms (Views: 675.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:04:30 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (89.0ms)
+Completed 200 OK in 683ms (Views: 635.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:05:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (112.0ms)
+Completed 200 OK in 730ms (Views: 693.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:05:22 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (115.5ms)
+Completed 200 OK in 734ms (Views: 676.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:05:33 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (95.0ms)
+Completed 200 OK in 697ms (Views: 650.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:08:27 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (13.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (88.5ms)
+Completed 200 OK in 1058ms (Views: 999.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:09:57 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (39.5ms)
+  Rendered shared/_footer.html.erb (27.5ms)
+  Rendered statics/index.html.erb within layouts/application (203.5ms)
+Completed 200 OK in 893ms (Views: 841.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:10:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (50.0ms)
+  Rendered statics/index.html.erb within layouts/application (249.0ms)
+Completed 200 OK in 1453ms (Views: 1388.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:15:00 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (102.5ms)
+Completed 200 OK in 2211ms (Views: 2175.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:16:04 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (94.5ms)
+Completed 200 OK in 691ms (Views: 654.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:16:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (81.0ms)
+Completed 200 OK in 1010ms (Views: 967.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:16:26 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (110.5ms)
+Completed 200 OK in 874ms (Views: 820.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:16:38 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (91.5ms)
+Completed 200 OK in 732ms (Views: 686.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:16:41 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (66.0ms)
+Completed 200 OK in 616ms (Views: 582.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:16:46 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (64.5ms)
+Completed 200 OK in 784ms (Views: 752.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:17:07 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (88.5ms)
+Completed 200 OK in 690ms (Views: 640.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:18:16 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (89.5ms)
+Completed 200 OK in 721ms (Views: 670.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:19:10 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (74.0ms)
+Completed 200 OK in 672ms (Views: 635.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-05-31 12:19:29 +0200
+Processing by StaticsController#about as HTML
+  Rendering statics/about.html.erb within layouts/application
+  Rendered statics/about.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 763ms (Views: 702.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 12:19:32 +0200
+Processing by Devise::SessionsController#new as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/sessions/new.html.erb within layouts/application
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/shared/_links.html.erb (6.0ms)
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/sessions/new.html.erb within layouts/application (1374.2ms)
+Completed 200 OK in 2316ms (Views: 2181.6ms | ActiveRecord: 6.5ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 12:19:37 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/shared/_links.html.erb (3.0ms)
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application (177.0ms)
+Completed 200 OK in 1175ms (Views: 1172.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:23:10 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (12.0ms)
+  Rendered shared/_footer.html.erb (5.5ms)
+  Rendered statics/index.html.erb within layouts/application (232.0ms)
+Completed 200 OK in 955ms (Views: 890.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:23:44 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (101.5ms)
+Completed 200 OK in 690ms (Views: 654.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:24:05 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (90.0ms)
+Completed 200 OK in 654ms (Views: 618.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:24:22 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.0ms)
+Completed 200 OK in 690ms (Views: 645.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:24:43 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (95.0ms)
+Completed 200 OK in 730ms (Views: 675.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:25:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (14.5ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (113.5ms)
+Completed 200 OK in 715ms (Views: 658.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:25:32 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (107.0ms)
+Completed 200 OK in 715ms (Views: 658.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:26:02 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (89.0ms)
+Completed 200 OK in 705ms (Views: 661.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:26:26 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (7.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (104.5ms)
+Completed 200 OK in 719ms (Views: 672.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:27:16 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (110.0ms)
+Completed 200 OK in 774ms (Views: 700.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:27:55 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (8.0ms)
+  Rendered statics/index.html.erb within layouts/application (99.0ms)
+Completed 200 OK in 681ms (Views: 641.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:28:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (97.0ms)
+Completed 200 OK in 714ms (Views: 672.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:28:30 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (90.0ms)
+Completed 200 OK in 1260ms (Views: 1212.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:30:32 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (105.5ms)
+Completed 200 OK in 797ms (Views: 759.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:30:56 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (90.5ms)
+Completed 200 OK in 738ms (Views: 641.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:31:06 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (85.0ms)
+Completed 200 OK in 699ms (Views: 656.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:31:29 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (85.5ms)
+Completed 200 OK in 657ms (Views: 619.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:31:45 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (86.5ms)
+Completed 200 OK in 702ms (Views: 640.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:31:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (4.5ms)
+  Rendered statics/index.html.erb within layouts/application (92.0ms)
+Completed 200 OK in 651ms (Views: 617.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:31:50 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (83.0ms)
+Completed 200 OK in 718ms (Views: 670.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:32:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (84.5ms)
+Completed 200 OK in 741ms (Views: 691.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:33:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (110.0ms)
+Completed 200 OK in 1074ms (Views: 1020.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:33:19 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (99.0ms)
+Completed 200 OK in 702ms (Views: 660.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:33:49 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (4.0ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (108.5ms)
+Completed 200 OK in 814ms (Views: 773.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:34:04 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (3.0ms)
+  Rendered statics/index.html.erb within layouts/application (85.5ms)
+Completed 200 OK in 811ms (Views: 755.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:34:34 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (5.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (91.5ms)
+Completed 200 OK in 674ms (Views: 624.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:34:57 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (97.0ms)
+Completed 200 OK in 727ms (Views: 691.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:35:22 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (93.0ms)
+Completed 200 OK in 656ms (Views: 594.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:36:26 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (93.0ms)
+Completed 200 OK in 746ms (Views: 702.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:39:56 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (86.5ms)
+Completed 200 OK in 752ms (Views: 707.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:40:08 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.5ms)
+Completed 200 OK in 683ms (Views: 637.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:40:18 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (97.5ms)
+Completed 200 OK in 740ms (Views: 669.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:40:26 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (138.0ms)
+Completed 200 OK in 791ms (Views: 752.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:40:38 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (99.5ms)
+Completed 200 OK in 693ms (Views: 617.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:41:05 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (86.0ms)
+Completed 200 OK in 682ms (Views: 645.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:41:18 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (94.0ms)
+Completed 200 OK in 709ms (Views: 662.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:41:50 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (93.0ms)
+Completed 200 OK in 650ms (Views: 611.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:41:58 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (102.5ms)
+Completed 200 OK in 702ms (Views: 640.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:43:07 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (95.5ms)
+Completed 200 OK in 698ms (Views: 654.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:46:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (107.0ms)
+Completed 200 OK in 734ms (Views: 677.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:46:57 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (80.5ms)
+Completed 200 OK in 641ms (Views: 602.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:48:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (115.0ms)
+Completed 200 OK in 760ms (Views: 705.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:49:55 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (92.5ms)
+Completed 200 OK in 1293ms (Views: 1235.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:50:28 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.5ms)
+Completed 200 OK in 681ms (Views: 635.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:51:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (84.5ms)
+Completed 200 OK in 678ms (Views: 638.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:51:30 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (98.5ms)
+Completed 200 OK in 743ms (Views: 707.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:51:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (112.0ms)
+Completed 200 OK in 678ms (Views: 642.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:52:04 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (95.0ms)
+Completed 200 OK in 706ms (Views: 648.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:53:31 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (86.0ms)
+Completed 200 OK in 701ms (Views: 663.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:53:41 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (88.0ms)
+Completed 200 OK in 731ms (Views: 670.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:54:12 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (100.5ms)
+Completed 200 OK in 712ms (Views: 669.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:54:49 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (92.5ms)
+Completed 200 OK in 789ms (Views: 739.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:55:52 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (92.0ms)
+Completed 200 OK in 701ms (Views: 660.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:56:05 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (115.5ms)
+Completed 200 OK in 716ms (Views: 679.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:56:21 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (120.0ms)
+Completed 200 OK in 723ms (Views: 676.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:56:49 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (126.5ms)
+Completed 200 OK in 697ms (Views: 653.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:57:25 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (117.5ms)
+Completed 200 OK in 810ms (Views: 776.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:58:15 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (113.5ms)
+Completed 200 OK in 739ms (Views: 677.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 12:58:39 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (93.0ms)
+Completed 200 OK in 791ms (Views: 750.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:00:25 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (98.0ms)
+Completed 200 OK in 671ms (Views: 633.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:00:40 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (116.5ms)
+Completed 200 OK in 729ms (Views: 662.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:01:22 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (6.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (109.0ms)
+Completed 200 OK in 861ms (Views: 814.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:01:35 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (3.5ms)
+  Rendered statics/index.html.erb within layouts/application (109.5ms)
+Completed 200 OK in 691ms (Views: 630.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:01:50 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (90.5ms)
+Completed 200 OK in 725ms (Views: 672.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:02:17 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (91.5ms)
+Completed 200 OK in 741ms (Views: 690.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:02:52 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (115.5ms)
+Completed 200 OK in 752ms (Views: 716.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:03:10 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (86.5ms)
+Completed 200 OK in 776ms (Views: 726.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:03:19 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (122.5ms)
+Completed 200 OK in 739ms (Views: 689.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:05:20 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (91.5ms)
+Completed 200 OK in 743ms (Views: 697.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:05:31 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.0ms)
+Completed 200 OK in 705ms (Views: 654.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:05:56 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (94.0ms)
+Completed 200 OK in 691ms (Views: 646.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:15:24 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (90.0ms)
+Completed 200 OK in 882ms (Views: 837.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:15:56 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (82.5ms)
+Completed 200 OK in 1029ms (Views: 984.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:15:59 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (87.0ms)
+Completed 200 OK in 955ms (Views: 910.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:16:17 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (90.0ms)
+Completed 200 OK in 1113ms (Views: 934.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:17:19 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (159.0ms)
+Completed 200 OK in 967ms (Views: 926.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:17:57 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (196.0ms)
+Completed 200 OK in 934ms (Views: 829.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:21:20 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (99.5ms)
+Completed 200 OK in 2157ms (Views: 1322.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:22:55 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (92.0ms)
+Completed 200 OK in 926ms (Views: 888.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:23:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (118.5ms)
+Completed 200 OK in 989ms (Views: 945.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:23:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (177.0ms)
+Completed 200 OK in 2018ms (Views: 1879.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:24:12 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (84.0ms)
+Completed 200 OK in 1424ms (Views: 1385.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:24:17 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (179.0ms)
+Completed 200 OK in 836ms (Views: 776.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:24:35 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (84.0ms)
+Completed 200 OK in 1525ms (Views: 1399.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:24:54 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (178.5ms)
+Completed 200 OK in 1734ms (Views: 1681.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:25:07 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (175.0ms)
+Completed 200 OK in 1444ms (Views: 1400.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:25:17 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (101.5ms)
+Completed 200 OK in 1570ms (Views: 1517.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:25:29 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (173.0ms)
+Completed 200 OK in 1499ms (Views: 1355.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:25:38 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (87.5ms)
+Completed 200 OK in 1402ms (Views: 1350.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:25:47 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (145.0ms)
+Completed 200 OK in 1506ms (Views: 1467.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:27:36 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (136.0ms)
+Completed 200 OK in 976ms (Views: 933.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:28:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (174.5ms)
+Completed 200 OK in 935ms (Views: 883.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:29:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (88.0ms)
+Completed 200 OK in 994ms (Views: 880.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:29:30 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (104.0ms)
+Completed 200 OK in 899ms (Views: 843.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:30:10 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (199.0ms)
+Completed 200 OK in 966ms (Views: 914.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:30:30 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (259.0ms)
+Completed 200 OK in 1117ms (Views: 1063.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:30:42 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (252.7ms)
+Completed 200 OK in 1189ms (Views: 1141.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:31:43 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (247.0ms)
+Completed 200 OK in 1455ms (Views: 1402.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:31:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (215.0ms)
+Completed 200 OK in 1095ms (Views: 1042.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:32:00 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (246.5ms)
+Completed 200 OK in 1218ms (Views: 1176.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:32:24 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (151.0ms)
+Completed 200 OK in 961ms (Views: 917.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:32:31 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (88.5ms)
+Completed 200 OK in 853ms (Views: 815.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:33:43 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (92.0ms)
+Completed 200 OK in 1366ms (Views: 1300.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:34:24 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (95.5ms)
+Completed 200 OK in 862ms (Views: 827.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:40:39 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (5.5ms)
+  Rendered statics/index.html.erb within layouts/application (142.0ms)
+Completed 200 OK in 1345ms (Views: 1215.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:41:43 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (102.5ms)
+Completed 200 OK in 1151ms (Views: 982.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:41:53 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (101.0ms)
+Completed 200 OK in 1019ms (Views: 961.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:42:03 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (112.0ms)
+Completed 200 OK in 1193ms (Views: 1043.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:42:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (154.5ms)
+Completed 200 OK in 982ms (Views: 931.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:42:24 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (81.0ms)
+Completed 200 OK in 957ms (Views: 817.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:49:28 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (262.0ms)
+Completed 200 OK in 1443ms (Views: 1224.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:50:34 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (211.5ms)
+Completed 200 OK in 1032ms (Views: 948.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:52:06 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (98.0ms)
+Completed 200 OK in 1125ms (Views: 1071.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:53:31 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (182.5ms)
+Completed 200 OK in 1814ms (Views: 1767.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:53:59 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (87.5ms)
+Completed 200 OK in 996ms (Views: 933.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:54:21 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (131.5ms)
+Completed 200 OK in 1600ms (Views: 1561.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:54:38 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (242.5ms)
+Completed 200 OK in 1685ms (Views: 1639.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:54:59 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (101.5ms)
+Completed 200 OK in 1497ms (Views: 1449.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:55:08 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (297.0ms)
+Completed 200 OK in 1971ms (Views: 1923.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:56:37 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (15.5ms)
+  Rendered shared/_footer.html.erb (10.0ms)
+  Rendered statics/index.html.erb within layouts/application (215.0ms)
+Completed 200 OK in 1665ms (Views: 1620.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:58:38 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (4.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (487.6ms)
+Completed 200 OK in 1959ms (Views: 1808.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:59:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (228.0ms)
+Completed 200 OK in 1864ms (Views: 1824.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:59:29 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (235.0ms)
+Completed 200 OK in 2376ms (Views: 2336.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:59:45 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (4.5ms)
+  Rendered statics/index.html.erb within layouts/application (89.0ms)
+Completed 200 OK in 1556ms (Views: 1521.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 13:59:59 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (146.0ms)
+Completed 200 OK in 1930ms (Views: 1880.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:00:10 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (118.5ms)
+Completed 200 OK in 1725ms (Views: 1680.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:00:21 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (177.5ms)
+Completed 200 OK in 1741ms (Views: 1688.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:00:34 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (134.5ms)
+Completed 200 OK in 1790ms (Views: 1709.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:00:46 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (14.0ms)
+  Rendered statics/index.html.erb within layouts/application (160.0ms)
+Completed 200 OK in 1427ms (Views: 1375.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:01:01 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (84.5ms)
+Completed 200 OK in 1576ms (Views: 1430.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:01:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (87.5ms)
+Completed 200 OK in 1463ms (Views: 1424.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:01:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (157.5ms)
+Completed 200 OK in 1008ms (Views: 956.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:01:16 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (97.5ms)
+Completed 200 OK in 857ms (Views: 820.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:01:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (183.0ms)
+Completed 200 OK in 1418ms (Views: 1372.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:01:33 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (209.5ms)
+Completed 200 OK in 1691ms (Views: 1633.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:02:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (176.5ms)
+Completed 200 OK in 1569ms (Views: 1521.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:03:18 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (311.5ms)
+Completed 200 OK in 2238ms (Views: 2171.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:04:19 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (88.0ms)
+Completed 200 OK in 762ms (Views: 719.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:04:37 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (78.0ms)
+Completed 200 OK in 1007ms (Views: 969.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:04:51 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (100.0ms)
+Completed 200 OK in 1152ms (Views: 1109.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:05:01 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (9.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (94.5ms)
+Completed 200 OK in 1175ms (Views: 1120.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:05:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (113.0ms)
+Completed 200 OK in 1203ms (Views: 1138.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:06:13 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (134.0ms)
+Completed 200 OK in 1419ms (Views: 1356.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:07:09 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (3.0ms)
+  Rendered statics/index.html.erb within layouts/application (136.5ms)
+Completed 200 OK in 1235ms (Views: 1178.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:09:06 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (103.5ms)
+Completed 200 OK in 675ms (Views: 636.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:09:21 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (103.0ms)
+Completed 200 OK in 759ms (Views: 687.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:09:48 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (106.5ms)
+Completed 200 OK in 709ms (Views: 660.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:12:35 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (97.5ms)
+Completed 200 OK in 750ms (Views: 699.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:13:19 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (97.0ms)
+Completed 200 OK in 661ms (Views: 622.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:13:23 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/shared/_links.html.erb (3.0ms)
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application (277.0ms)
+Completed 200 OK in 1094ms (Views: 1029.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:14:13 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (101.5ms)
+Completed 200 OK in 717ms (Views: 664.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:15:29 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (29.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (123.5ms)
+Completed 200 OK in 702ms (Views: 661.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:16:11 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.5ms)
+Completed 200 OK in 724ms (Views: 663.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:17:33 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (101.0ms)
+Completed 200 OK in 728ms (Views: 684.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:17:58 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (97.5ms)
+Completed 200 OK in 655ms (Views: 614.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:18:11 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (3.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (96.5ms)
+Completed 200 OK in 706ms (Views: 649.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:18:22 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (100.5ms)
+Completed 200 OK in 678ms (Views: 630.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:18:31 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.5ms)
+  Rendered statics/index.html.erb within layouts/application (105.0ms)
+Completed 200 OK in 688ms (Views: 642.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:18:40 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (103.5ms)
+Completed 200 OK in 770ms (Views: 713.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:18:49 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (115.5ms)
+Completed 200 OK in 743ms (Views: 700.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:18:58 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (107.0ms)
+Completed 200 OK in 738ms (Views: 697.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:21:01 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (108.0ms)
+Completed 200 OK in 725ms (Views: 680.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:21:40 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/shared/_links.html.erb (3.0ms)
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application (179.5ms)
+Completed 200 OK in 965ms (Views: 962.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2017-05-31 14:21:59 +0200
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"vC609mgrWxxCgT7UcoRoZhG62ravFH8rrS7CKWqzYte6cQhnQFEAxVkCH1C1NxzNq2QCsvrqWtF6TTWGYaTpsg==", "user"=>{"email"=>"quimbalaguer73@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (11.5ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (17.0ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "quimbalaguer73@gmail.com"], ["LIMIT", 1]]
+  [1m[35mSQL (6.5ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["email", "quimbalaguer73@gmail.com"], ["encrypted_password", "$2a$11$nfWMbbsBdcnv8w6cncV.De8DoVc7WC89es0XC6Tc7jRjuWaF5MSHy"], ["created_at", "2017-05-31 12:22:00.431751"], ["updated_at", "2017-05-31 12:22:00.431751"]]
+  [1m[35m (247.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.5ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = ?, "current_sign_in_at" = ?, "last_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_ip" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["sign_in_count", 1], ["current_sign_in_at", "2017-05-31 12:22:00.723793"], ["last_sign_in_at", "2017-05-31 12:22:00.723793"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_ip", "127.0.0.1"], ["updated_at", "2017-05-31 12:22:00.727297"], ["id", 1]]
+  [1m[35m (145.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 1465ms (ActiveRecord: 429.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:01 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (105.5ms)
+Completed 200 OK in 657ms (Views: 610.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 14:22:10 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 21ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:10 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (106.5ms)
+Completed 200 OK in 740ms (Views: 697.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 14:22:14 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 6ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:14 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (78.5ms)
+Completed 200 OK in 700ms (Views: 667.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 14:22:17 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (19.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 26ms (ActiveRecord: 19.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:17 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (118.5ms)
+Completed 200 OK in 807ms (Views: 770.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 14:22:23 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 7ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:23 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (98.0ms)
+Completed 200 OK in 871ms (Views: 755.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:22:25 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (1.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 7ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:25 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (73.0ms)
+Completed 200 OK in 647ms (Views: 617.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 14:22:40 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 6ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:40 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (97.0ms)
+Completed 200 OK in 764ms (Views: 692.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:49 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.5ms)
+  Rendered statics/index.html.erb within layouts/application (142.5ms)
+Completed 200 OK in 706ms (Views: 671.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:52 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (87.5ms)
+Completed 200 OK in 671ms (Views: 632.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for 127.0.0.1 at 2017-05-31 14:22:59 +0200
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 7ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:22:59 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (124.0ms)
+Completed 200 OK in 718ms (Views: 686.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:02 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (2.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 8ms (ActiveRecord: 2.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:23:02 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (81.0ms)
+Completed 200 OK in 674ms (Views: 640.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:04 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (2.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 8ms (ActiveRecord: 2.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:23:04 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (0.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (78.5ms)
+Completed 200 OK in 664ms (Views: 633.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:06 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (3.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 13ms (ActiveRecord: 3.5ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:06 +0200
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:07 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Processing by Devise::RegistrationsController#new as HTML
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 60ms (ActiveRecord: 0.5ms)
+
+
+  [1m[36mUser Load (1.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 15ms (ActiveRecord: 1.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:23:07 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (2.0ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (116.5ms)
+Completed 200 OK in 725ms (Views: 691.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:17 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 8ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:23:18 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (24.5ms)
+  Rendered shared/_footer.html.erb (1.0ms)
+  Rendered statics/index.html.erb within layouts/application (124.0ms)
+Completed 200 OK in 770ms (Views: 702.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for 127.0.0.1 at 2017-05-31 14:23:20 +0200
+Processing by StaticsController#about as HTML
+  Rendering statics/about.html.erb within layouts/application
+  Rendered statics/about.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 635ms (Views: 595.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:23:24 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 6ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:23:24 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (0.5ms)
+  Rendered statics/index.html.erb within layouts/application (122.5ms)
+Completed 200 OK in 676ms (Views: 636.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2017-05-31 14:27:13 +0200
+Processing by StaticsController#index as HTML
+  Rendering statics/index.html.erb within layouts/application
+  Rendered shared/_header.html.erb (1.0ms)
+  Rendered shared/_footer.html.erb (2.0ms)
+  Rendered statics/index.html.erb within layouts/application (70.0ms)
+Completed 200 OK in 593ms (Views: 560.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2017-05-31 14:27:25 +0200
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/shared/_links.html.erb (2.0ms)
+  Rendered C:/RailsInstaller/Ruby2.3.0/lib/ruby/gems/2.3.0/gems/devise-4.3.0/app/views/devise/registrations/new.html.erb within layouts/application (105.0ms)
+Completed 200 OK in 745ms (Views: 740.7ms | ActiveRecord: 0.0ms)
+
+
